@@ -36,6 +36,7 @@ También puedes ejecutar en modo normal:
 npm start
 ```
 
+> Nota: no uses `npm run start dev` (ese comando es inválido).
 
 ## Solución de problemas (Windows)
 
