@@ -1,4 +1,4 @@
-# DevLocker v1 - API REST
+# DevLocker v1 - API REST Fabian Coral - Alexamder Ardila
 
 API REST para gestionar snippets privados con JWT, MongoDB y Express.
 
@@ -124,3 +124,4 @@ Content-Type: application/json
 - `express-validator`
 - Patrón `asyncHandler`
 - Middleware global de errores con respuesta JSON consistente
+
